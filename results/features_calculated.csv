@@ -1,0 +1,6 @@
+Feature,Description,Justification
+rate_mean,Média das taxas nos últimos 10 intervalos,Captura a tendência geral do desempenho
+rate_std,Desvio padrão das taxas nos últimos 10 intervalos,Mede a variação na estabilidade
+delta_mean,Diferença entre as últimas duas médias,Captura mudanças recentes
+slope_mean,Inclinação da regressão linear nos últimos 10 intervalos,Representa a tendência temporal
+cliente_servidor,Cliente e servidor identificados numericamente,Relaciona clientes e servidores às suas métricas
